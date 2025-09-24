@@ -1,5 +1,5 @@
 //Olá, Mundo!
 
-console.log("Olá, Mundo!");
+alert("Olá, Mundo!");
 
-//Esse código imprime a mensagem "Olá, Mundo!" no console.
+//Esse código imprime a mensagem "Olá, Mundo!" em um alerta.
