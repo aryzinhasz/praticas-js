@@ -1,0 +1,13 @@
+Exemplo 11 – Calculando média e dando 'Parabéns' 
+
+Resumo: Este exercício tem como objetivo calculando média e dando 'parabéns'. 
+
+Explicação das variáveis e funções usadas: 
+
+- `let` → declara uma variável. 
+- `prompt()` → solicita entrada do usuário. 
+- `alert()` → mostra uma mensagem na tela. 
+- `document.getElementById()` → acessa um elemento HTML pelo id. 
+- Estruturas como `if`, `for`, `switch` → controlam o fluxo do programa. 
+
+ 
