@@ -1,0 +1,11 @@
+Exemplo 08 – Vários cálculos 
+
+Resumo: Este exercício tem como objetivo vários cálculos. 
+
+Explicação das variáveis e funções usadas: 
+
+- `let` → declara uma variável. 
+- `prompt()` → solicita entrada do usuário. 
+- `alert()` → mostra uma mensagem na tela. 
+- `document.getElementById()` → acessa um elemento HTML pelo id. 
+- Estruturas como `if`, `for`, `switch` → controlam o fluxo do programa. 
